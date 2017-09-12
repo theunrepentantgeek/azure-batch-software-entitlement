@@ -1,6 +1,8 @@
 ##
 ##  Psake build file for the Software Entitlement Service SDK
 ##
+## Psake is a PowerShell based build tool - see https://github.com/psake/psake for more
+##
 
 properties {
     $baseDir = resolve-path ..\
